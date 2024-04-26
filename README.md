@@ -21,7 +21,6 @@ Este es un programa en C# para convertir archivos de audio de varios formatos (c
 
 Este programa admite la conversión desde los siguientes formatos de audio a MP3:
 - .m4a (Audio MPEG-4)
-- .opus (Códec de Audio Opus)
 
 ## Notas
 
